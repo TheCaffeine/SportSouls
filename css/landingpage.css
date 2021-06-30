@@ -130,3 +130,12 @@ nav ul li a {
       padding-top: 30px;
       margin-left: 30px;
   }
+
+.cta-button button{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    align-items: center;
+
+}
