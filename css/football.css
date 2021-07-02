@@ -127,11 +127,9 @@ right: -45px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    /* position: relative; */
+    position: relative;
     text-align: center;
-}
-.col-md-3 {
-    margin: 30px 0 30px 0;
+    margin: 30px 30px 30px 30px;
 }
 .football-img {
     width: 100%;
